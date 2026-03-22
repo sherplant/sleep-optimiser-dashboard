@@ -8,7 +8,7 @@ Built as part of an Internet of Things coursework project.
 
 ## 🔗 Live Dashboard
 
-[View on Streamlit Cloud](#) <!-- replace with your deployed URL -->
+[View on Streamlit Cloud](https://sleep-optimiser-dashboard-iot.streamlit.app/) 
 
 ---
 
