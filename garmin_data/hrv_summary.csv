@@ -1,0 +1,8 @@
+date,weekly_avg,last_night_avg,last_night_5_min_high,baseline_low,baseline_balanced_low,baseline_balanced_upper,status
+2026-03-01,66,58,109,,,,UNBALANCED
+2026-03-02,67,84,128,,,,BALANCED
+2026-03-03,68,82,113,,,,BALANCED
+2026-03-04,70,75,117,,,,BALANCED
+2026-03-05,74,85,120,,,,BALANCED
+2026-03-06,74,78,110,,,,BALANCED
+2026-03-07,77,81,119,,,,BALANCED
