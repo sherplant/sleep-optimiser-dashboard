@@ -55,8 +55,8 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Data Sources
 
-- **Garmin**: 6 nights of sleep data (01–06 Mar 2026) exported as CSV from Garmin Connect
-- **Arduino**: Bedroom environment readings — temperature, humidity, light (LDR) and sound amplitude
+- **Garmin**: 7 nights of wearable health data (01–07 Mar 2026) exported as CSV from Garmin Connect
+- **Arduino**: Bedroom environment readings: temperature, humidity, light (LDR), sound amplitude, motion, bed movement
 - **Google Sheets**: Optional live feed for Arduino sensor data
 
 ---
@@ -79,5 +79,3 @@ sleep_dashboard/
 ```
 
 ---
-
-*IoT Coursework — Part 2*
